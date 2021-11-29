@@ -6,7 +6,6 @@ C:\Users\ga_bo\source\microservices\PlatformService\obj\Debug\net5.0\PlatformSer
 C:\Users\ga_bo\source\microservices\PlatformService\obj\Debug\net5.0\PlatformService.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\ga_bo\source\microservices\PlatformService\obj\Debug\net5.0\PlatformService.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\ga_bo\source\microservices\PlatformService\bin\Debug\net5.0\appsettings.Development.json
-C:\Users\ga_bo\source\microservices\PlatformService\bin\Debug\net5.0\appsettings.json
 C:\Users\ga_bo\source\microservices\PlatformService\bin\Debug\net5.0\PlatformService.exe
 C:\Users\ga_bo\source\microservices\PlatformService\bin\Debug\net5.0\PlatformService.deps.json
 C:\Users\ga_bo\source\microservices\PlatformService\bin\Debug\net5.0\PlatformService.runtimeconfig.json
@@ -61,3 +60,12 @@ C:\Users\ga_bo\source\microservices\PlatformService\obj\Debug\net5.0\PlatformSer
 C:\Users\ga_bo\source\microservices\PlatformService\obj\Debug\net5.0\ref\PlatformService.dll
 C:\Users\ga_bo\source\microservices\PlatformService\obj\Debug\net5.0\PlatformService.pdb
 C:\Users\ga_bo\source\microservices\PlatformService\obj\Debug\net5.0\PlatformService.genruntimeconfig.cache
+C:\Users\ga_bo\source\microservices\PlatformService\bin\Debug\net5.0\appsettings.Production.json
+C:\Users\ga_bo\source\microservices\PlatformService\bin\Debug\net5.0\RabbitMQ.Client.dll
+C:\Users\ga_bo\source\microservices\PlatformService\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Users\ga_bo\source\microservices\PlatformService\bin\Debug\net5.0\Grpc.AspNetCore.Server.dll
+C:\Users\ga_bo\source\microservices\PlatformService\bin\Debug\net5.0\Grpc.AspNetCore.Server.ClientFactory.dll
+C:\Users\ga_bo\source\microservices\PlatformService\bin\Debug\net5.0\Grpc.Core.Api.dll
+C:\Users\ga_bo\source\microservices\PlatformService\bin\Debug\net5.0\Grpc.Net.Client.dll
+C:\Users\ga_bo\source\microservices\PlatformService\bin\Debug\net5.0\Grpc.Net.ClientFactory.dll
+C:\Users\ga_bo\source\microservices\PlatformService\bin\Debug\net5.0\Grpc.Net.Common.dll

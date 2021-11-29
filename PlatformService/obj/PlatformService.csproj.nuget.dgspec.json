@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\ga_bo\\source\\microservices\\PlatformService\\PlatformService.csproj": {}
+    "C:\\Users\\ga_bo\\source\\microservices\\PlatformService\\PlatformService.csproj": {}
   },
   "projects": {
-    "c:\\Users\\ga_bo\\source\\microservices\\PlatformService\\PlatformService.csproj": {
+    "C:\\Users\\ga_bo\\source\\microservices\\PlatformService\\PlatformService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\ga_bo\\source\\microservices\\PlatformService\\PlatformService.csproj",
+        "projectUniqueName": "C:\\Users\\ga_bo\\source\\microservices\\PlatformService\\PlatformService.csproj",
         "projectName": "PlatformService",
-        "projectPath": "c:\\Users\\ga_bo\\source\\microservices\\PlatformService\\PlatformService.csproj",
+        "projectPath": "C:\\Users\\ga_bo\\source\\microservices\\PlatformService\\PlatformService.csproj",
         "packagesPath": "C:\\Users\\ga_bo\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\ga_bo\\source\\microservices\\PlatformService\\obj\\",
+        "outputPath": "C:\\Users\\ga_bo\\source\\microservices\\PlatformService\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ga_bo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -62,9 +62,17 @@
               "target": "Package",
               "version": "[5.0.11, )"
             },
+            "RabbitMQ.Client": {
+              "target": "Package",
+              "version": "[6.2.2, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[5.6.3, )"
+            },
+            "grpc.aspnetcore": {
+              "target": "Package",
+              "version": "[2.40.0, )"
             }
           },
           "imports": [
